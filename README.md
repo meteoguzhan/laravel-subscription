@@ -39,7 +39,3 @@ You can start the project. (Make sure your system exists php)
 ```bash
 php artisan serve
 ```
-Postman collection 
-```
-https://api.postman.com/collections/5306575-c59c6b1d-1ebb-4b71-b708-8925d6e508ea?access_key=PMAT-01J3E8Z7DM618T9G6Q7QCRB0R9
-```
